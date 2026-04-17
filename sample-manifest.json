@@ -1,12 +1,12 @@
 {
-  "export_job_id": "3795736a-c0fd-4f52-9d26-f7bbe593c2f6",
+  "export_job_id": "16448eb7-9d22-44d5-91ac-58d5af56ae26",
   "id_short": 379429,
-  "published_at": "2026-04-11T19:01:26Z",
+  "published_at": "2026-04-17T07:46:07Z",
   "repo_name": "all-restaurants-in-bend-oregon-us-sample-379429",
   "sample_asset_name": "beamstation_379429_restaurants-us-or_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/379429/beamstation_379429_restaurants-us-or_SAMPLE_DIST.csv",
-  "sample_records": 43,
-  "sample_sha256": "ccfb56e0539e7d51adefbffdb836700626a604ad5a92b9c2c5d81973a5829acb",
-  "sample_size_bytes": 159847,
-  "total_records": 433
+  "sample_records": 34,
+  "sample_sha256": "426c19fc4127cc1adce82c31ae439c72f29f8d4287969de4aef38105d39e9300",
+  "sample_size_bytes": 133043,
+  "total_records": 343
 }

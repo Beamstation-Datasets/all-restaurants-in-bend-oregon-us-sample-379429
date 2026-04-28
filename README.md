@@ -1,6 +1,6 @@
 # All Restaurants in Bend, Oregon, US
 
-> Free BeamStation sample export with 29 rows and masked direct-contact fields.
+> Free BeamStation sample export with 40 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `379429` |
 | Location | Bend |
 | Category | Restaurants |
-| Full dataset size | 298 records |
-| Free sample size | 29 records (9.73%) |
-| Last export | 2026-04-21T09:55:52.778091+00:00 |
+| Full dataset size | 408 records |
+| Free sample size | 40 records (9.8%) |
+| Last export | 2026-04-28T09:55:21.774647+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-bend-oregon-us-sample-379429/releases/download/sample-latest/beamstation_379429_restaurants-us-or_SAMPLE_DIST.csv) |
 
 ## What is in this sample
